@@ -6,9 +6,9 @@ SQL and Python projects for financial analysis: SQLite databases, Pandas pipelin
 Setup stage. Projects below are planned and will be added as they are built.
 
 ## Planned projects
--  SQLite database of a listed company's prices and financial statements, with analytical queries
--  Python data pipeline: fetch, clean and store financial data (Pandas, yfinance)
--  Automated three-statement model and DCF valuation engine (Excel + Python)
+- [ ] SQLite database of a listed company's prices and financial statements, with analytical queries
+- [ ] Python data pipeline: fetch, clean and store financial data (Pandas, yfinance)
+- [ ] Automated three-statement model and DCF valuation engine (Excel + Python)
 
 ## Tech
 Python, SQL (SQLite), Pandas, NumPy, Excel (openpyxl)
